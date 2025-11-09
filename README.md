@@ -7,7 +7,7 @@ A fitness comptition app where you compete with your fellow colleges and see who
 <div align="center">
   <img src="assets/images/steps.png" alt="steps" width="250" />
   <img src="assets/images/water.png" alt="water" width="250" />
-  <img src="assets/images/sleep.png" alt="sleep" width="245" />
+  <img src="assets/images/sleep.png" alt="sleep" width="240" />
   <img src="assets/images/leaderboard.png" alt="leaderboard" width="250" />
 </div>
 
