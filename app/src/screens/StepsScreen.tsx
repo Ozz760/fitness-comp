@@ -23,7 +23,7 @@ export default function StepsScreen({ route, navigation }: RootTabScreenProps<'S
       <Text style={styles.title}>Steps</Text>
       <Text style={styles.subtitle}>Track your daily steps</Text>
       <View style={styles.statsContainer}>
-        <Text style={styles.statValue}>0</Text>
+        <Text style={styles.statValue}>12,343</Text>
         <Text style={styles.statLabel}>Steps Today</Text>
       </View>
     </View>

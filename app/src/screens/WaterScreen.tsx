@@ -23,7 +23,7 @@ export default function WaterScreen({ route, navigation }: RootTabScreenProps<'W
       <Text style={styles.title}>Water</Text>
       <Text style={styles.subtitle}>Track your daily water intake</Text>
       <View style={styles.statsContainer}>
-        <Text style={styles.statValue}>0</Text>
+        <Text style={styles.statValue}>0.5 gallons</Text>
         <Text style={styles.statLabel}>Glasses Today</Text>
       </View>
     </View>

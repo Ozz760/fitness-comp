@@ -23,7 +23,7 @@ export default function SleepScreen({ route, navigation }: RootTabScreenProps<'S
       <Text style={styles.title}>Sleep</Text>
       <Text style={styles.subtitle}>Track your sleep hours</Text>
       <View style={styles.statsContainer}>
-        <Text style={styles.statValue}>0h</Text>
+        <Text style={styles.statValue}>8h</Text>
         <Text style={styles.statLabel}>Hours Last Night</Text>
       </View>
     </View>
